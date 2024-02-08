@@ -2,7 +2,7 @@
 # Containerized Node.js Application Deployment with Kubernetes and Terraform"
 Setup a kubernetes cluster using kind, then create and deploy a sample Node.js app using terraform. 
 
-## Read.me
+##
 We made a simple script using bash, a type of computer language, to create a local Kind cluster. The name of the script is deploy_kind_cluster.sh.
 ## deploy_kind_cluster.sh
 
